@@ -1,6 +1,6 @@
 # JSBI para BigInt
 
-> Transformando *script* com [*JSBI*](https://github.com/GoogleChromeLabs/jsbi) para `BigInt` nativo.
+> Transformando *script* com [*JSBI*](https://github.com/GoogleChromeLabs/jsbi) em `BigInt` nativo.
 
 ## Testando
 
