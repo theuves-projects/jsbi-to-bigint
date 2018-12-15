@@ -1,0 +1,17 @@
+{
+  "name": "jsbi-to-bigint",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Transformar JSBI em BigInt nativo.",
+  "scripts": {
+    "start": "babel example.js -o example-with-bigint.js"
+  },
+  "author": "Matheus Alves",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/cli": "^7.2.0",
+    "@babel/core": "^7.2.2",
+    "babel-plugin-transform-jsbi-to-bigint": "^1.0.0",
+    "jsbi": "^2.0.5"
+  }
+}
